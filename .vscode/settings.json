@@ -1,0 +1,27 @@
+{
+    "RTT_Studio.Build.Parallel_Jobs": "4",
+    "editor.semanticHighlighting.enabled": true,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "off",
+    "editor.tabFocusMode": true,
+    "editor.unicodeHighlight.includeComments": true,
+    "C_Cpp.intelliSenseCachePath": "open access ",
+    "C_Cpp_Runner.cppCompilerPath": "g++",
+    "C_Cpp_Runner.cppStandard": "gnu++20",
+    "C_Cpp_Runner.cStandard": "gnu99",
+    "C_Cpp_Runner.warningsAsError": true,
+    "lldb.consoleMode": "evaluate",
+    "lldb.displayFormat": "auto",
+    "python.testing.pytestArgs": [
+        "hello_world"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./hello_world",
+        "-p",
+        "*test.py"
+    ]
+}
